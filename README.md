@@ -1,4 +1,4 @@
 # boostclick
 
-### `npm start` - for dev
+### `npm start` - for dеv
 ### `npm run build` - for prod
